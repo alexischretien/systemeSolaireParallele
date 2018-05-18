@@ -20,10 +20,10 @@ Compilation :
 ```
 $ make
 ```
-Test (vérification que la simulation séquentielle retourne les mêmes résultats
+Tests (vérification que la simulation séquentielle retourne les mêmes résultats
 que la simulation parallèle) :
 ```
-$ make test
+$ make tests
 ```
 Mesures (comparaisons des temps d'exécutions pour différentes nombres de threads
 utilisés et production de graphes):
