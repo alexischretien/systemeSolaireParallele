@@ -27,12 +27,12 @@ que la simulation parallèle) :
 $ make tests
 ```
 Mesures (comparaisons des temps d'exécutions pour différentes nombres de threads
-utilisés et production de graphes):
+utilisés et production de graphes) :
 ```
 $ make mesures
 ```
-Orbites (produire le tracés des orbites de notre système solaires en utilisants
-des données réelles)
+Orbites (produire le tracé des orbites de notre système solaire en utilisant
+des données réelles) :
 ```
 $ make orbites
 ```
