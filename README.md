@@ -2,9 +2,9 @@
 
 ## Description
 
-Ce projet vise à produire des simulations séquentielles et parallèle
+Ce projet vise à produire des simulations séquentielles et parallèles
 sur l'évolution d'un système solaire. Une analyse complète des 
-résultats obtenues est incluse dans le fichier `analyse.pdf`. 
+résultats obtenus est incluse dans le fichier `analyse.pdf`. 
 
 ## Auteur
 
@@ -13,6 +13,7 @@ Alexis Chrétien
 ## Dépendances
 
 [Bibliothèque TBB d'Intel](https://www.threadingbuildingblocks.org)
+[GnuPlot](http://www.gnuplot.info/)
 
 ## Utilisation
 
