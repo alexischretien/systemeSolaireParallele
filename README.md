@@ -12,8 +12,8 @@ Alexis Chrétien
 
 ## Dépendances
 
-[Bibliothèque TBB d'Intel](https://www.threadingbuildingblocks.org)
-[GnuPlot](http://www.gnuplot.info/)
+* [Bibliothèque TBB d'Intel](https://www.threadingbuildingblocks.org)
+* [GnuPlot](http://www.gnuplot.info/)
 
 ## Utilisation
 
